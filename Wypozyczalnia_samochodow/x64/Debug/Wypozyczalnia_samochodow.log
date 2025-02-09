@@ -1,0 +1,6 @@
+﻿  main.cpp
+  menu_auta.cpp
+  rental.cpp
+C:\Users\hp\Desktop\POLSL\PK\PK2\pk2 github\c813f0cc-gr42-repo\Projekt\Wypozyczalnia_samochodow\Wypozyczalnia_samochodow\rental.cpp(264,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Wypozyczalnia_samochodow.vcxproj -> C:\Users\hp\Desktop\POLSL\PK\PK2\pk2 github\c813f0cc-gr42-repo\Projekt\Wypozyczalnia_samochodow\x64\Debug\Wypozyczalnia_samochodow.exe
